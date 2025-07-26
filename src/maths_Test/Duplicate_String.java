@@ -14,6 +14,7 @@ public class Duplicate_String {
 			//		count++;
 					System.out.println(arr[j] );
 				//	System.out.println(arr[j] + " "+count);
+					//	System.out.println(arr[j] + " "+count);
 					
 				}
 			}
